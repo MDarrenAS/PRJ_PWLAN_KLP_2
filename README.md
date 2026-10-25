@@ -1,5 +1,14 @@
 # Signify
 
+<p align="center">
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://developer.android.com/compose"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+</p>
+
 Signify adalah website yang dirancang untuk membantu pembelajaran Sistem Isyarat Bahasa Indonesia (SIBINDO). Aplikasi ini dibangun dengan Laravel dan React melalui Inertia.js. Skema Supabase untuk kebutuhan pembelajaran tersedia di [`docs/supabase_schema.sql`](docs/supabase_schema.sql).
 
 > Repository ini masih menggunakan Laravel React starter kit sebagai fondasi. Kamus isyarat, materi, kuis, dan pelacakan progres merupakan ruang lingkup produk yang direncanakan, bukan klaim bahwa seluruh fitur tersebut sudah tersedia.
